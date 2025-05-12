@@ -1,0 +1,767 @@
+{
+  "7859-102519-0019": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7859/102519/7859-102519-0019.flac",
+    "length": 3.52,
+    "spk_id": "7859"
+  },
+  "3526-176653-0054": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3526/176653/3526-176653-0054.flac",
+    "length": 14.135,
+    "spk_id": "3526"
+  },
+  "3242-8112-0010": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3242/8112/3242-8112-0010.flac",
+    "length": 15.075,
+    "spk_id": "3242"
+  },
+  "19-198-0001": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/19/198/19-198-0001.flac",
+    "length": 11.765,
+    "spk_id": "19"
+  },
+  "19-198-0026": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/19/198/19-198-0026.flac",
+    "length": 13.47,
+    "spk_id": "19"
+  },
+  "8629-261139-0024": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/8629/261139/8629-261139-0024.flac",
+    "length": 11.335,
+    "spk_id": "8629"
+  },
+  "3947-13262-0033": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3947/13262/3947-13262-0033.flac",
+    "length": 8.38,
+    "spk_id": "3947"
+  },
+  "460-172359-0089": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0089.flac",
+    "length": 7.06,
+    "spk_id": "460"
+  },
+  "118-47824-0030": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0030.flac",
+    "length": 2.745,
+    "spk_id": "118"
+  },
+  "118-47824-0038": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0038.flac",
+    "length": 15.5300625,
+    "spk_id": "118"
+  },
+  "4680-16042-0019": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/4680/16042/4680-16042-0019.flac",
+    "length": 13.56,
+    "spk_id": "4680"
+  },
+  "2416-152139-0033": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0033.flac",
+    "length": 10.46,
+    "spk_id": "2416"
+  },
+  "163-122947-0022": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/163/122947/163-122947-0022.flac",
+    "length": 3.8,
+    "spk_id": "163"
+  },
+  "226-122538-0028": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/226/122538/226-122538-0028.flac",
+    "length": 15.69,
+    "spk_id": "226"
+  },
+  "7367-86737-0105": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0105.flac",
+    "length": 2.515,
+    "spk_id": "7367"
+  },
+  "118-47824-0043": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0043.flac",
+    "length": 15.145,
+    "spk_id": "118"
+  },
+  "2416-152139-0007": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0007.flac",
+    "length": 14.52,
+    "spk_id": "2416"
+  },
+  "669-129074-0013": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/669/129074/669-129074-0013.flac",
+    "length": 13.435,
+    "spk_id": "669"
+  },
+  "332-128985-0011": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/332/128985/332-128985-0011.flac",
+    "length": 13.275,
+    "spk_id": "332"
+  },
+  "2416-152139-0036": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0036.flac",
+    "length": 13.86,
+    "spk_id": "2416"
+  },
+  "3242-8112-0007": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3242/8112/3242-8112-0007.flac",
+    "length": 15.24,
+    "spk_id": "3242"
+  },
+  "163-122947-0081": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/163/122947/163-122947-0081.flac",
+    "length": 13.195,
+    "spk_id": "163"
+  },
+  "3664-178355-0031": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3664/178355/3664-178355-0031.flac",
+    "length": 15.4,
+    "spk_id": "3664"
+  },
+  "118-47824-0016": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0016.flac",
+    "length": 15.655,
+    "spk_id": "118"
+  },
+  "2136-5147-0000": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2136/5147/2136-5147-0000.flac",
+    "length": 12.615,
+    "spk_id": "2136"
+  },
+  "1867-154075-0037": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1867/154075/1867-154075-0037.flac",
+    "length": 12.85,
+    "spk_id": "1867"
+  },
+  "7312-92432-0024": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7312/92432/7312-92432-0024.flac",
+    "length": 13.485,
+    "spk_id": "7312"
+  },
+  "6848-252323-0021": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/6848/252323/6848-252323-0021.flac",
+    "length": 12.88,
+    "spk_id": "6848"
+  },
+  "118-47824-0047": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0047.flac",
+    "length": 15.235,
+    "spk_id": "118"
+  },
+  "4640-19188-0027": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/4640/19188/4640-19188-0027.flac",
+    "length": 15.51,
+    "spk_id": "4640"
+  },
+  "7367-86737-0071": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0071.flac",
+    "length": 15.275,
+    "spk_id": "7367"
+  },
+  "1867-154075-0035": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1867/154075/1867-154075-0035.flac",
+    "length": 7.525,
+    "spk_id": "1867"
+  },
+  "669-129074-0008": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/669/129074/669-129074-0008.flac",
+    "length": 16.025,
+    "spk_id": "669"
+  },
+  "3242-8112-0022": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3242/8112/3242-8112-0022.flac",
+    "length": 15.12,
+    "spk_id": "3242"
+  },
+  "332-128985-0031": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/332/128985/332-128985-0031.flac",
+    "length": 7.685,
+    "spk_id": "332"
+  },
+  "7859-102519-0004": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7859/102519/7859-102519-0004.flac",
+    "length": 14.975,
+    "spk_id": "7859"
+  },
+  "3526-176653-0030": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3526/176653/3526-176653-0030.flac",
+    "length": 15.665,
+    "spk_id": "3526"
+  },
+  "7312-92432-0004": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7312/92432/7312-92432-0004.flac",
+    "length": 13.855,
+    "spk_id": "7312"
+  },
+  "32-21631-0012": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/32/21631/32-21631-0012.flac",
+    "length": 14.28,
+    "spk_id": "32"
+  },
+  "4640-19188-0012": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/4640/19188/4640-19188-0012.flac",
+    "length": 9.285,
+    "spk_id": "4640"
+  },
+  "7367-86737-0104": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0104.flac",
+    "length": 15.475,
+    "spk_id": "7367"
+  },
+  "7367-86737-0060": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0060.flac",
+    "length": 13.75,
+    "spk_id": "7367"
+  },
+  "7859-102519-0043": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7859/102519/7859-102519-0043.flac",
+    "length": 14.0,
+    "spk_id": "7859"
+  },
+  "1970-28415-0030": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1970/28415/1970-28415-0030.flac",
+    "length": 4.865,
+    "spk_id": "1970"
+  },
+  "6272-70171-0039": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/6272/70171/6272-70171-0039.flac",
+    "length": 12.76,
+    "spk_id": "6272"
+  },
+  "7367-86737-0062": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0062.flac",
+    "length": 15.28,
+    "spk_id": "7367"
+  },
+  "8629-261139-0016": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/8629/261139/8629-261139-0016.flac",
+    "length": 12.45,
+    "spk_id": "8629"
+  },
+  "1898-145715-0034": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1898/145715/1898-145715-0034.flac",
+    "length": 13.035,
+    "spk_id": "1898"
+  },
+  "7367-86737-0005": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0005.flac",
+    "length": 14.915,
+    "spk_id": "7367"
+  },
+  "2416-152139-0072": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0072.flac",
+    "length": 13.13,
+    "spk_id": "2416"
+  },
+  "4680-16042-0001": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/4680/16042/4680-16042-0001.flac",
+    "length": 10.855,
+    "spk_id": "4680"
+  },
+  "332-128985-0038": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/332/128985/332-128985-0038.flac",
+    "length": 12.385,
+    "spk_id": "332"
+  },
+  "460-172359-0003": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0003.flac",
+    "length": 14.625,
+    "spk_id": "460"
+  },
+  "118-47824-0007": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0007.flac",
+    "length": 15.1449375,
+    "spk_id": "118"
+  },
+  "118-47824-0027": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0027.flac",
+    "length": 12.06,
+    "spk_id": "118"
+  },
+  "7859-102519-0020": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7859/102519/7859-102519-0020.flac",
+    "length": 3.395,
+    "spk_id": "7859"
+  },
+  "163-122947-0062": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/163/122947/163-122947-0062.flac",
+    "length": 14.19,
+    "spk_id": "163"
+  },
+  "7367-86737-0037": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0037.flac",
+    "length": 15.46,
+    "spk_id": "7367"
+  },
+  "7859-102519-0032": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7859/102519/7859-102519-0032.flac",
+    "length": 8.635,
+    "spk_id": "7859"
+  },
+  "226-122538-0025": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/226/122538/226-122538-0025.flac",
+    "length": 15.96,
+    "spk_id": "226"
+  },
+  "7367-86737-0026": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0026.flac",
+    "length": 14.65,
+    "spk_id": "7367"
+  },
+  "226-122538-0017": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/226/122538/226-122538-0017.flac",
+    "length": 15.16,
+    "spk_id": "226"
+  },
+  "226-122538-0034": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/226/122538/226-122538-0034.flac",
+    "length": 10.83,
+    "spk_id": "226"
+  },
+  "118-47824-0014": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0014.flac",
+    "length": 13.905,
+    "spk_id": "118"
+  },
+  "163-122947-0047": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/163/122947/163-122947-0047.flac",
+    "length": 13.67,
+    "spk_id": "163"
+  },
+  "7859-102519-0038": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7859/102519/7859-102519-0038.flac",
+    "length": 15.79,
+    "spk_id": "7859"
+  },
+  "460-172359-0075": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0075.flac",
+    "length": 14.67,
+    "spk_id": "460"
+  },
+  "2416-152139-0056": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0056.flac",
+    "length": 13.215,
+    "spk_id": "2416"
+  },
+  "4640-19188-0039": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/4640/19188/4640-19188-0039.flac",
+    "length": 15.265,
+    "spk_id": "4640"
+  },
+  "332-128985-0032": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/332/128985/332-128985-0032.flac",
+    "length": 15.305,
+    "spk_id": "332"
+  },
+  "6272-70171-0029": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/6272/70171/6272-70171-0029.flac",
+    "length": 15.005,
+    "spk_id": "6272"
+  },
+  "2416-152139-0004": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0004.flac",
+    "length": 15.51,
+    "spk_id": "2416"
+  },
+  "7367-86737-0108": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0108.flac",
+    "length": 14.25,
+    "spk_id": "7367"
+  },
+  "460-172359-0010": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0010.flac",
+    "length": 10.945,
+    "spk_id": "460"
+  },
+  "3664-178355-0005": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3664/178355/3664-178355-0005.flac",
+    "length": 15.985,
+    "spk_id": "3664"
+  },
+  "6272-70171-0040": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/6272/70171/6272-70171-0040.flac",
+    "length": 11.785,
+    "spk_id": "6272"
+  },
+  "4640-19188-0036": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/4640/19188/4640-19188-0036.flac",
+    "length": 4.46,
+    "spk_id": "4640"
+  },
+  "7859-102519-0036": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7859/102519/7859-102519-0036.flac",
+    "length": 11.965,
+    "spk_id": "7859"
+  },
+  "460-172359-0060": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0060.flac",
+    "length": 4.895,
+    "spk_id": "460"
+  },
+  "1898-145715-0013": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1898/145715/1898-145715-0013.flac",
+    "length": 15.485,
+    "spk_id": "1898"
+  },
+  "1898-145715-0008": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1898/145715/1898-145715-0008.flac",
+    "length": 15.025,
+    "spk_id": "1898"
+  },
+  "118-47824-0013": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0013.flac",
+    "length": 4.57,
+    "spk_id": "118"
+  },
+  "2416-152139-0062": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0062.flac",
+    "length": 14.785,
+    "spk_id": "2416"
+  },
+  "3947-13262-0032": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3947/13262/3947-13262-0032.flac",
+    "length": 14.93,
+    "spk_id": "3947"
+  },
+  "226-122538-0016": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/226/122538/226-122538-0016.flac",
+    "length": 13.965,
+    "spk_id": "226"
+  },
+  "2416-152139-0044": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0044.flac",
+    "length": 14.96,
+    "spk_id": "2416"
+  },
+  "7367-86737-0052": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0052.flac",
+    "length": 15.66,
+    "spk_id": "7367"
+  },
+  "4680-16042-0034": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/4680/16042/4680-16042-0034.flac",
+    "length": 14.505,
+    "spk_id": "4680"
+  },
+  "3947-13262-0048": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3947/13262/3947-13262-0048.flac",
+    "length": 9.73,
+    "spk_id": "3947"
+  },
+  "32-21631-0009": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/32/21631/32-21631-0009.flac",
+    "length": 15.025,
+    "spk_id": "32"
+  },
+  "118-47824-0040": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0040.flac",
+    "length": 3.225,
+    "spk_id": "118"
+  },
+  "1970-28415-0014": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1970/28415/1970-28415-0014.flac",
+    "length": 14.225,
+    "spk_id": "1970"
+  },
+  "7859-102519-0011": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7859/102519/7859-102519-0011.flac",
+    "length": 14.635,
+    "spk_id": "7859"
+  },
+  "3242-8112-0033": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3242/8112/3242-8112-0033.flac",
+    "length": 4.39,
+    "spk_id": "3242"
+  },
+  "1737-146161-0000": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1737/146161/1737-146161-0000.flac",
+    "length": 13.925,
+    "spk_id": "1737"
+  },
+  "8629-261139-0055": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/8629/261139/8629-261139-0055.flac",
+    "length": 14.375,
+    "spk_id": "8629"
+  },
+  "3947-13262-0047": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3947/13262/3947-13262-0047.flac",
+    "length": 13.75,
+    "spk_id": "3947"
+  },
+  "332-128985-0016": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/332/128985/332-128985-0016.flac",
+    "length": 15.3,
+    "spk_id": "332"
+  },
+  "163-122947-0040": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/163/122947/163-122947-0040.flac",
+    "length": 13.91,
+    "spk_id": "163"
+  },
+  "2136-5147-0015": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2136/5147/2136-5147-0015.flac",
+    "length": 13.95,
+    "spk_id": "2136"
+  },
+  "6848-252323-0009": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/6848/252323/6848-252323-0009.flac",
+    "length": 16.54,
+    "spk_id": "6848"
+  },
+  "118-47824-0006": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0006.flac",
+    "length": 16.145,
+    "spk_id": "118"
+  },
+  "1867-154075-0004": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1867/154075/1867-154075-0004.flac",
+    "length": 11.25,
+    "spk_id": "1867"
+  },
+  "7859-102519-0053": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7859/102519/7859-102519-0053.flac",
+    "length": 2.325,
+    "spk_id": "7859"
+  },
+  "460-172359-0025": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0025.flac",
+    "length": 12.19,
+    "spk_id": "460"
+  },
+  "2136-5147-0003": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2136/5147/2136-5147-0003.flac",
+    "length": 13.265,
+    "spk_id": "2136"
+  },
+  "1088-134318-0012": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1088/134318/1088-134318-0012.flac",
+    "length": 15.325,
+    "spk_id": "1088"
+  },
+  "460-172359-0099": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0099.flac",
+    "length": 9.57,
+    "spk_id": "460"
+  },
+  "2136-5147-0008": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2136/5147/2136-5147-0008.flac",
+    "length": 14.985,
+    "spk_id": "2136"
+  },
+  "1088-134315-0011": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1088/134315/1088-134315-0011.flac",
+    "length": 11.875,
+    "spk_id": "1088"
+  },
+  "6272-70171-0013": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/6272/70171/6272-70171-0013.flac",
+    "length": 15.3099375,
+    "spk_id": "6272"
+  },
+  "460-172359-0038": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0038.flac",
+    "length": 15.16,
+    "spk_id": "460"
+  },
+  "7312-92432-0017": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7312/92432/7312-92432-0017.flac",
+    "length": 14.89,
+    "spk_id": "7312"
+  },
+  "1898-145715-0001": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1898/145715/1898-145715-0001.flac",
+    "length": 15.48,
+    "spk_id": "1898"
+  },
+  "118-47824-0033": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0033.flac",
+    "length": 14.615,
+    "spk_id": "118"
+  },
+  "163-122947-0024": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/163/122947/163-122947-0024.flac",
+    "length": 16.245,
+    "spk_id": "163"
+  },
+  "118-47824-0069": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0069.flac",
+    "length": 12.895,
+    "spk_id": "118"
+  },
+  "1737-146161-0008": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1737/146161/1737-146161-0008.flac",
+    "length": 14.8,
+    "spk_id": "1737"
+  },
+  "332-128985-0080": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/332/128985/332-128985-0080.flac",
+    "length": 15.76,
+    "spk_id": "332"
+  },
+  "6848-252323-0022": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/6848/252323/6848-252323-0022.flac",
+    "length": 15.75,
+    "spk_id": "6848"
+  },
+  "32-21631-0011": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/32/21631/32-21631-0011.flac",
+    "length": 13.995,
+    "spk_id": "32"
+  },
+  "2136-5147-0035": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2136/5147/2136-5147-0035.flac",
+    "length": 14.58,
+    "spk_id": "2136"
+  },
+  "226-122538-0014": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/226/122538/226-122538-0014.flac",
+    "length": 16.85,
+    "spk_id": "226"
+  },
+  "118-47824-0046": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0046.flac",
+    "length": 4.81,
+    "spk_id": "118"
+  },
+  "19-198-0014": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/19/198/19-198-0014.flac",
+    "length": 15.57,
+    "spk_id": "19"
+  },
+  "2136-5147-0032": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2136/5147/2136-5147-0032.flac",
+    "length": 13.11,
+    "spk_id": "2136"
+  },
+  "226-122538-0005": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/226/122538/226-122538-0005.flac",
+    "length": 16.1299375,
+    "spk_id": "226"
+  },
+  "2416-152139-0066": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0066.flac",
+    "length": 15.72,
+    "spk_id": "2416"
+  },
+  "8629-261139-0053": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/8629/261139/8629-261139-0053.flac",
+    "length": 12.18,
+    "spk_id": "8629"
+  },
+  "460-172359-0007": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0007.flac",
+    "length": 13.585,
+    "spk_id": "460"
+  },
+  "3526-176653-0051": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3526/176653/3526-176653-0051.flac",
+    "length": 2.55,
+    "spk_id": "3526"
+  },
+  "3664-178355-0000": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3664/178355/3664-178355-0000.flac",
+    "length": 13.92,
+    "spk_id": "3664"
+  },
+  "3664-178355-0028": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3664/178355/3664-178355-0028.flac",
+    "length": 16.515,
+    "spk_id": "3664"
+  },
+  "118-47824-0042": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0042.flac",
+    "length": 11.93,
+    "spk_id": "118"
+  },
+  "669-129074-0005": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/669/129074/669-129074-0005.flac",
+    "length": 14.53,
+    "spk_id": "669"
+  },
+  "7312-92432-0013": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7312/92432/7312-92432-0013.flac",
+    "length": 16.13,
+    "spk_id": "7312"
+  },
+  "2416-152139-0009": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/2416/152139/2416-152139-0009.flac",
+    "length": 12.58,
+    "spk_id": "2416"
+  },
+  "1898-145715-0041": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1898/145715/1898-145715-0041.flac",
+    "length": 14.065,
+    "spk_id": "1898"
+  },
+  "7367-86737-0097": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/7367/86737/7367-86737-0097.flac",
+    "length": 12.51,
+    "spk_id": "7367"
+  },
+  "1088-134315-0021": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1088/134315/1088-134315-0021.flac",
+    "length": 15.51,
+    "spk_id": "1088"
+  },
+  "163-122947-0016": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/163/122947/163-122947-0016.flac",
+    "length": 13.98,
+    "spk_id": "163"
+  },
+  "332-128985-0052": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/332/128985/332-128985-0052.flac",
+    "length": 12.205,
+    "spk_id": "332"
+  },
+  "8629-261139-0007": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/8629/261139/8629-261139-0007.flac",
+    "length": 2.145,
+    "spk_id": "8629"
+  },
+  "8629-261139-0042": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/8629/261139/8629-261139-0042.flac",
+    "length": 14.33,
+    "spk_id": "8629"
+  },
+  "118-47824-0005": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0005.flac",
+    "length": 15.77,
+    "spk_id": "118"
+  },
+  "3947-13262-0010": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/3947/13262/3947-13262-0010.flac",
+    "length": 14.06,
+    "spk_id": "3947"
+  },
+  "460-172359-0023": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0023.flac",
+    "length": 15.97,
+    "spk_id": "460"
+  },
+  "1088-134315-0015": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1088/134315/1088-134315-0015.flac",
+    "length": 14.76,
+    "spk_id": "1088"
+  },
+  "5789-70653-0028": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/5789/70653/5789-70653-0028.flac",
+    "length": 15.41,
+    "spk_id": "5789"
+  },
+  "460-172359-0006": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/460/172359/460-172359-0006.flac",
+    "length": 15.71,
+    "spk_id": "460"
+  },
+  "163-122947-0041": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/163/122947/163-122947-0041.flac",
+    "length": 14.59,
+    "spk_id": "163"
+  },
+  "118-47824-0019": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/118/47824/118-47824-0019.flac",
+    "length": 11.08,
+    "spk_id": "118"
+  },
+  "1970-28415-0017": {
+    "wav": "{data_root}/LibriSpeech/train-clean-5/1970/28415/1970-28415-0017.flac",
+    "length": 10.94,
+    "spk_id": "1970"
+  }
+}

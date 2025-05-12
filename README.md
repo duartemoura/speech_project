@@ -29,4 +29,4 @@ team if any errors are found or clarification is needed about how
 parts of the template work. Good Luck!
 
 [For more information, please take a look into the "speaker-id from scratch" tutorial](https://speechbrain.readthedocs.io/en/latest/tutorials/tasks/speech-classification-from-scratch.html)
-# speech_project
+
